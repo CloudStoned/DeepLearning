@@ -1,14 +1,1 @@
-.env/
-.backup/
-.cache.
-.ipynb_checkpoints/
-DS_100/
-DS_COMPILED/
-Tree_Bark_Identification_ResNet50/
-*.csv
-MODELS/
-*.png
-*.jpg
-.cache/
-*.tar
-DS_IMG_DETECTION/
+.vscode/
